@@ -1,0 +1,6 @@
+Package: SEIR COVID 19
+Title: SEIR Model for COVID-19
+Version: 0.1
+Authors@R: person("Alison", "Hill", email = "alhill@fas.harvard.edu", role = c("aut", "cre"))
+Description: SEIR model for COVID-19 infection, including different clinical trajectories of infection
+RelPath: ./COVID19seir
